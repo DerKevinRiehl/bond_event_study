@@ -87,13 +87,13 @@ Here is an example of the randomly generated trades dataset.
 
 |       |       Date    |  CUSIP | FirmID_PERMNO | MaturityDate | Rating_numeric | Price_USD | Qty|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|0|       2010-01-01 | IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 29.681576  | 96|
-|1|       2010-01-01|  IR9CM68QT |    CSJT3O024|  2014-03-30     |        11 | 28.361588  | 77|
-|2|       2010-01-01|  IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 26.609789  | 34|
-|3|       2010-01-01|  IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 28.153327  | 19|
-|4|       2010-01-01|  IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 30.367110  | 43|
+|0|       2010-01-01 | IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 29.621576  | 96|
+|1|       2010-01-01|  IR9CM68QT |    CSJT3O024|  2014-03-30     |        11 | 28.331588  | 77|
+|2|       2010-01-01|  IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 26.659789  | 34|
+|3|       2010-01-01|  IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 28.133327  | 19|
+|4|       2010-01-01|  IR9CM68QT |    CSJT3O024 | 2014-03-30     |        11 | 30.267110  | 43|
  |  |        ...    |    ...    |       ...  | ...     |       ...    |    ... | ...|
-|1365179 |2013-03-01|  BNFX8HZGW    | B7LHQ6E0C | 2014-03-02       |      12 | 21.323571 |  82|
+|1365179 |2013-03-01|  BNFX8HZGW    | B7LHQ6E0C | 2014-03-02       |      12 | 21.623571 |  82|
 
 ### Step 2: Calculate Event Study Processed Tables
 In the next step, let us calculate processed tables, such as prices, returns, abnormal returns etc.
@@ -220,8 +220,3 @@ Please cite our paper if you find this work useful:
     year={2024}
 }
 ```
-
-## Acknowledgements
-
-We would like to thank ???. 
-(e.g. Dirk Schiereck, Chair of Corporate Finance, TU Darmstadt, provision of data ?)
